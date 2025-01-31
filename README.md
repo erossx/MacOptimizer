@@ -19,7 +19,7 @@ MacOptimizer는 macOS 시스템의 성능을 최적화하고 관리하기 위한
 
 1. 저장소 클론:
 ```bash
-git clone https://github.com/yourusername/MacOptimizer.git
+git clone https://github.com/erossx/MacOptimizer.git
 ```
 
 2. Xcode로 프로젝트 열기:
@@ -51,6 +51,6 @@ open MacOptimizer.xcodeproj
 
 ## 연락처
 
-프로젝트 관리자 - [@yourgithub](https://github.com/yourgithub)
+프로젝트 관리자 - [@erossx](https://github.com/erossx)
 
-프로젝트 링크: [https://github.com/yourusername/MacOptimizer](https://github.com/yourusername/MacOptimizer) 
+프로젝트 링크: [https://github.com/erossx/MacOptimizer](https://github.com/erossx/MacOptimizer) 
