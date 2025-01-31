@@ -10,9 +10,24 @@
 		6A31C5B52D4D1CF800633E7C /* MacOptimizer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MacOptimizer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		6A31C5FE2D4D22BD00633E7C /* Exceptions for "MacOptimizer" folder in "MacOptimizer" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				ContentView.swift,
+				MacOptimizer.xcdatamodeld,
+				Views/ContentView.swift,
+			);
+			target = 6A31C5B42D4D1CF800633E7C /* MacOptimizer */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		6A31C5B72D4D1CF800633E7C /* MacOptimizer */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				6A31C5FE2D4D22BD00633E7C /* Exceptions for "MacOptimizer" folder in "MacOptimizer" target */,
+			);
 			path = MacOptimizer;
 			sourceTree = "<group>";
 		};
